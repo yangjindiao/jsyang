@@ -1,0 +1,23 @@
+{
+  "name": "jsyang",
+  "version": "1.0.0",
+  "description": "个人，开发，工具",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangjindiao/jsyang.git"
+  },
+  "keywords": [
+    "个人，开发，工具"
+  ],
+  "author": "yangjindiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangjindiao/jsyang/issues"
+  },
+  "homepage": "https://github.com/yangjindiao/jsyang#readme"
+}
